@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>DevOps Engineering on AWS</h1>
-                <h2>Demonstração Pipeline Containers</h2>
+                <h2>Demonstração Pipeline Containers - Update!</h2>
                 <p>Nossa aplicação esta sendo executada no Amazon ECS.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
